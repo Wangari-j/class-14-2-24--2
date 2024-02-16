@@ -14,9 +14,9 @@ Colours1.dullColours = "Brown", "Black"
 print(Colours1.briColours, Colours1.dullColours)
 
 #I can create many objects of my  class
-Colours2 = Colours
-Colours3 = Colours
-colours4 = Colours
+Colours2 = Colours()
+Colours3 = Colours()
+colours4 = Colours()
 
 Colours2.dullColours = "navy blue"
 colours4.briColours = "yellow"
